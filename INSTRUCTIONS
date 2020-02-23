@@ -1,0 +1,4 @@
+
+make keebio/iris/rev4:w-shackleton
+sudo make keebio/iris/rev4:w-shackleton:dfu
+
